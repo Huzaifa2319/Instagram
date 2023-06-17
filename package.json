@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "20.x"
+  },
   "name": "hacker",
   "version": "1.0.0",
   "description": "",
